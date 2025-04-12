@@ -65,3 +65,4 @@ copy path of Keypair path
 cat <Keypair path>
 ```
 Copy array of number and import them on backpack in private key section
+*make sure to copy the brackets included
